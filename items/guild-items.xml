@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Beryl Resurgence</name>
+        <description> </description>
+        <author url="https://github.com/Daniel-Nenstiel">Dj</author>
+        <update version="0.0.1">
+            <file name="guild-items.xml" url
+        </update>
+    </info>
+</elements>
