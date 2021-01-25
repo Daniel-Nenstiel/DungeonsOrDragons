@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Beryl Resurgence</name>
+		<description>The Content Specific to Beryl Resurgence D&D Campaign</description>
+		<author url="https://github.com/Daniel-Nenstiel">Dj</author>
+		<update version="0.0.1">
+			<file name="core.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core.index" />
+		</update>
+	</info>
+	<files>
+	</files>
+</index>
