@@ -9,7 +9,7 @@
         </update>
     </info>
 
-    <element name="Trust of the Sheppard" type="Magic Item" source="Djs Brain" id="1">
+    <element name="Trust of the Sheppard" type="Magic Item" source="Djs Brain" id="BR_TOTS">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
             <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
@@ -22,8 +22,7 @@
             <set name="attunement">false</set>
         </setters>
     </element>
-
-    <element name="Scale of the Dragon" type="Magic Item" source="Djs Brain" id="2">
+    <element name="Scale of the Dragon" type="Magic Item" source="Djs Brain" id="BR_SOTD">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
             <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
@@ -36,8 +35,7 @@
             <set name="attunement">false</set>
         </setters>
     </element>
-
-    <element name="Love of the Host" type="Magic Item" source="Djs Brain" id="3">
+    <element name="Love of the Host" type="Magic Item" source="Djs Brain" id="BR_LOTH">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
             <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
@@ -50,8 +48,7 @@
             <set name="attunement">false</set>
         </setters>
     </element>
-
-    <element name="Network of the Missionary" type="Magic Item" source="Djs Brain" id="4">
+    <element name="Network of the Missionary" type="Magic Item" source="Djs Brain" id="BR_NOTM">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
             <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
@@ -64,8 +61,7 @@
             <set name="attunement">false</set>
         </setters>
     </element>
-
-    <element name="Barrier of the Aegis" type="Magic Item" source="Djs Brain" id="5">
+    <element name="Barrier of the Aegis" type="Magic Item" source="Djs Brain" id="BR_BOTA">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
             <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
