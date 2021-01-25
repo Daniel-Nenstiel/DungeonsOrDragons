@@ -5,9 +5,10 @@
 		<description>The Content Specific to Beryl Resurgence D&D Campaign</description>
 		<author url="https://github.com/Daniel-Nenstiel">Dj</author>
 		<update version="0.0.1">
-			<file name="core.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core.index" />
+			<file name="Beryl-Resurgence.index" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/Beryl-Resurgence.index" />
 		</update>
 	</info>
 	<files>
+        <file name="guild-items.xml" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/items/guild-items.xml" />
 	</files>
 </index>
