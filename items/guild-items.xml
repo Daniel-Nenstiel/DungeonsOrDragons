@@ -15,7 +15,7 @@
             <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
         </description>
         <setters>
-            <set name="category">Wonderous Items</set>
+            <set name="category">Wondrous Items</set>
             <set name="cost" currency="gp" override="false">0</set>
             <set name="weight" lb="0">0 lb.</set>
             <set name="rarity">Legendary</set>
