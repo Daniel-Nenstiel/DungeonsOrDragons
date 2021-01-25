@@ -9,6 +9,5 @@
 		</update>
 	</info>
 	<files>
-        <file name="guild-items.xml" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/items/guild-items.xml" />
 	</files>
 </index>
