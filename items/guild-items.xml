@@ -5,7 +5,7 @@
         <description> </description>
         <author url="https://github.com/Daniel-Nenstiel">Dj</author>
         <update version="0.0.1">
-	            <file name="guild-items.xml" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/items/guild-items.xml" />
+	        <file name="guild-items.xml" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/items/guild-items.xml" />
         </update>
     </info>
 
