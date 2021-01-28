@@ -24,8 +24,8 @@
     </element>
     <element name="Scale of the Dragon" type="Magic Item" source="Djs Brain" id="BR_SOTD">
         <description>
-            <p>Once per long rest you may cast Recruiter's Guile as an action</p>
-            <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
+            <p>Once per long rest you may cast Hoard's Flame as an action</p>
+            <p class="indent">You can use your action to exhale destructive molten gold. In a 15 foot cone. Each creature in the area of the exhalation must make a saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 3d6 fire damage on a failed save, and half as much damage on a successful one.</p>
         </description>
         <setters>
             <set name="category">Wondrous Items</set>
@@ -37,8 +37,8 @@
     </element>
     <element name="Love of the Host" type="Magic Item" source="Djs Brain" id="BR_LOTH">
         <description>
-            <p>Once per long rest you may cast Recruiter's Guile as an action</p>
-            <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
+            <p>Once per long rest you may cast Pass into the Iris as an action</p>
+            <p class="indent">You swirl with restorative energy that washes over you and nearby allies in waves. You and up to five other creatures of your choice within 15 feet of you regain a number of hit points equal to ld4 + your highest ability modifier. In addition, at the start of your next turn, you and up to five other creatures of your choice within 15 feet of you regain hit points again in the same way (you roll again)</p>
         </description>
         <setters>
             <set name="category">Wondrous Items</set>
@@ -51,7 +51,8 @@
     <element name="Network of the Missionary" type="Magic Item" source="Djs Brain" id="BR_NOTM">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
-            <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
+            <p class="indent">You may access The Network of Net Work</p>
+            <p class="indent">You can focus	your mind to read the psionic imprint left on an object. If you hold an object and concentrate on it for 10	minutes, you learn a few basic facts about it. You gain a mental image from the object’s point of view, showing the last creature to hold the object, regardless of how long ago it was last handled. You also learn	of any events that have occurred within 20 feet of the object within the past 24 hours. The	events you perceive unfold from	the object’s perspective. You see and hear such events as if you were there, but can’t use other senses.</p>
         </description>
         <setters>
             <set name="category">Wondrous Items</set>
@@ -63,8 +64,8 @@
     </element>
     <element name="Barrier of the Aegis" type="Magic Item" source="Djs Brain" id="BR_BOTA">
         <description>
-            <p>Once per long rest you may cast Recruiter's Guile as an action</p>
-            <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
+            <p>Once per long rest you may cast Shore The Defences as an action</p>
+            <p class="indent">You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.</p>
         </description>
         <setters>
             <set name="category">Wondrous Items</set>
