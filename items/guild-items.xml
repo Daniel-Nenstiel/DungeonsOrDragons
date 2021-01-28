@@ -4,7 +4,7 @@
         <name>Beryl Resurgence</name>
         <description> </description>
         <author url="https://github.com/Daniel-Nenstiel">Dj</author>
-        <update version="0.0.1">
+        <update version="0.0.2">
 	        <file name="guild-items.xml" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/items/guild-items.xml" />
         </update>
     </info>
@@ -12,7 +12,7 @@
     <element name="Trust of the Sheppard" type="Magic Item" source="Djs Brain" id="BR_TOTS">
         <description>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
-            <p class="indent">For the duration, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
+            <p class="indent">For a duration of 15 minutes, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
         </description>
         <setters>
             <set name="category">Wondrous Items</set>
