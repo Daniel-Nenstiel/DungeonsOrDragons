@@ -51,7 +51,7 @@
     <element name="Network of the Missionary" type="Magic Item" source="Djs Brain" id="BR_NOTM">
         <description>
             <p>You may access The Network of Net Work</p>
-            </br>
+            <p></p>
             <p>Once per long rest you may cast Recruiter's Guile as an action</p>
             <p class="indent">You can focus	your mind to read the psionic imprint left on an object. If you hold an object and concentrate on it for 10	minutes, you learn a few basic facts about it. You gain a mental image from the object’s point of view, showing the last creature to hold the object, regardless of how long ago it was last handled. You also learn	of any events that have occurred within 20 feet of the object within the past 24 hours. The	events you perceive unfold from	the object’s perspective. You see and hear such events as if you were there, but can’t use other senses.</p>
         </description>
