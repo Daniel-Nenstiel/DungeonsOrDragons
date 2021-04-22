@@ -5,4 +5,22 @@
         <description> </description>
         <author url="https://github.com/Daniel-Nenstiel">Dj</author>
     </info>
+
+    <element name="templateName" type="typeName" source="sourceName" id="">
+        <description>
+            <p>Descripton</p>
+            <p class="indent"></p>
+        </description>
+        <setters>
+            <set name="category">categoryName</set>
+            <set name="cost" currency="gp" override="false">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="type" addition="leather">Armor</set>
+            <set name="rarity">Rare</set>
+            <set name="attunement">true</set>
+            <set name="armor">armorType</set>
+            <set name="name-format"></set>
+        </setters>
+    </element>
+
 </elements>

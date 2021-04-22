@@ -4,7 +4,7 @@
         <name>Beryl Resurgence</name>
         <description> </description>
         <author url="https://github.com/Daniel-Nenstiel">Dj</author>
-        <update version="0.0.2">
+        <update version="0.0.3">
 	        <file name="guild-items.xml" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/items/guild-items.xml" />
         </update>
     </info>
@@ -67,6 +67,89 @@
         <description>
             <p>Once per long rest you may cast Shore The Defences as an action</p>
             <p class="indent">You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp" override="false">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">false</set>
+        </setters>
+    </element>
+
+    <element name="Trust of the Sheppard (2)" type="Magic Item" source="Djs Brain" id="BR_TOTS">
+        <description>
+            <p>Once per long rest you may cast Recruiter's Guile as an action</p>
+            <p class="indent">For a duration of 15 minutes, you have advantage on all Charisma checks directed at any creature within 20 feet that isn’t hostile toward you.</p>
+            <p></p>
+            <p>Your trust sets those around you at ease</p>
+            <p class="indent">(Allocate the additional feat "Everybody's Friend")</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp" override="false">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">false</set>
+        </setters>
+    </element>
+    <element name="Scale of the Dragon (2)" type="Magic Item" source="Djs Brain" id="BR_SOTD">
+        <description>
+            <p>Once per long rest you may cast Hoard's Flame as an action</p>
+            <p class="indent">You can use your action to exhale destructive molten gold. In a 15 foot cone. Each creature in the area of the exhalation must make a saving throw. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 3d6 fire damage on a failed save, and half as much damage on a successful one.</p>
+            <p></p>
+            <p>Your blood boils and your draconic affinity grows</p>
+            <p class="indent">(Allocate the additional feat "Dragon Wings")</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp" override="false">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">false</set>
+        </setters>
+    </element>
+    <element name="Love of the Host (2)" type="Magic Item" source="Djs Brain" id="BR_LOTH">
+        <description>
+            <p>Once per long rest you may cast Pass into the Iris as an action</p>
+            <p class="indent">You swirl with restorative energy that washes over you and nearby allies in waves. You and up to five other creatures of your choice within 15 feet of you regain a number of hit points equal to ld4 + your highest ability modifier. In addition, at the start of your next turn, you and up to five other creatures of your choice within 15 feet of you regain hit points again in the same way (you roll again)</p>
+            <p></p>
+            <p>Your love can be used to protect those under your care</p>
+            <p class="indent">(Allocate the additional feat "Inspiring Leader")</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp" override="false">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">false</set>
+        </setters>
+    </element>
+    <element name="Network of the Missionary (2)" type="Magic Item" source="Djs Brain" id="BR_NOTM">
+        <description>
+            <p>You may access The Network of Net Work</p>
+            <p></p>
+            <p>Once per long rest you may cast Recruiter's Guile as an action</p>
+            <p class="indent">You can focus	your mind to read the psionic imprint left on an object. If you hold an object and concentrate on it for 10	minutes, you learn a few basic facts about it. You gain a mental image from the object’s point of view, showing the last creature to hold the object, regardless of how long ago it was last handled. You also learn	of any events that have occurred within 20 feet of the object within the past 24 hours. The	events you perceive unfold from	the object’s perspective. You see and hear such events as if you were there, but can’t use other senses.</p>
+            <p></p>
+            <p>Contact with the Network of net work has expanded your mind</p>
+            <p class="indent">(Allocate the additional feat "Telepathic")</p>
+        </description>
+        <setters>
+            <set name="category">Wondrous Items</set>
+            <set name="cost" currency="gp" override="false">0</set>
+            <set name="weight" lb="0">0 lb.</set>
+            <set name="rarity">Legendary</set>
+            <set name="attunement">false</set>
+        </setters>
+    </element>
+    <element name="Barrier of the Aegis (2)" type="Magic Item" source="Djs Brain" id="BR_BOTA">
+        <description>
+            <p>Once per long rest you may cast Shore The Defences as an action</p>
+            <p class="indent">You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape that suits your purpose. So, for example, you could shape a large rock into a weapon, idol, or coffer, or make a small passage through a wall, as long as the wall is less than 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn’t possible.</p>
+            <p></p>
+            <p>The aegis is reforged and gains strength</p>
+            <p class="indent">(Allocate the additional feat "Barbed Hide")</p>
         </description>
         <setters>
             <set name="category">Wondrous Items</set>
