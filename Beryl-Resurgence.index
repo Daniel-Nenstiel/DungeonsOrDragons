@@ -4,7 +4,7 @@
 		<name>Beryl Resurgence</name>
 		<description>The Content Specific to Beryl Resurgence DnD Campaign</description>
 		<author url="https://github.com/Daniel-Nenstiel">Dj</author>
-		<update version="0.0.3">
+		<update version="0.0.4">
 			<file name="Beryl-Resurgence.index" url="https://raw.githubusercontent.com/Daniel-Nenstiel/DungeonsOrDragons/master/Beryl-Resurgence.index" />
 		</update>
 	</info>
